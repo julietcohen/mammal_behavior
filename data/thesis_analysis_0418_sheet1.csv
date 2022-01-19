@@ -1,0 +1,982 @@
+`,Season,Year,Camera,Latitude,Longitude,Date_Deployed,Date_Stopped,Habitat,Folder,Photo_num,Date,Temp_C,Time,Species,Amount,Notes
+COPR,fall,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,9250105,9/25/2018,10,22:53:45,Didelphis virginiana,1,
+COPR,fall,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,9260107,9/26/2018,11,20:36:35,Didelphis virginiana,1,
+COPR,fall,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,9280109,9/28/2018,12,22:07:49,Didelphis virginiana,1,
+COPR,fall,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,9300119,9/30/2018,10,22:34:07,Didelphis virginiana,1,
+COPR,fall,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,10070150,10/7/2018,13,20:25:03,Didelphis virginiana,1,
+COPR,fall,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,10110183,10/11/2018,12,19:54:13,Didelphis virginiana,1,
+COPR,fall,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,10120184,10/12/2018,8,1:35:50,Didelphis virginiana,1,
+COPR,fall,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,10190210,10/19/2018,10,0:28:52,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8020055-8020057,8/2/2018,13,1:56:06,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8030097-8030099,8/3/2018,12,4:23:08,Didelphis virginiana,1,probably an opossum
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050181-8050183,8/5/2018,12,2:22:28,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060310-8060315,8/6/2018,16,23:02:27,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8070319-8070321,8/7/2018,16,0:26:41,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080352-8080354,8/8/2018,15,4:58:56,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080355-8080360,8/8/2018,15,5:07:42,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080355-8080360,8/8/2018,15,5:12:01,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080379-8080381,8/8/2018,15,20:16:56,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080385-8080387,8/8/2018,15,2:04:47,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8090391-8090393,8/9/2018,15,3:42:55,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8090397-8090405,8/9/2018,15,21:54:25,Didelphis virginiana,1,good pic of opossum!
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8090397-8090405,8/9/2018,15,22:03:34,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8100421-8100429,8/10/2018,13,3:40:53,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8100421-8100429,8/10/2018,13,3:47:50,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8100421-8100429,8/10/2018,15,3:50:58,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8110454-8110459,8/11/2018,15,20:38:02,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8110481-8110483,8/11/2018,15,23:16:08,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8120508-8120516,8/12/2018,15,3:26:48,Didelphis virginiana,1,"since the mice and opossum(s) are alternating, they are sharing the same range and are active at the same times of night but just not in the presence of each other...and 8120514 is a great pic of the opossum on the log even though its a tad blurry"
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8120508-8120516,8/12/2018,13,5:15:43,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8130535-8140558,8/13/2018,15,4:02:15,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8130535-8140558,8/13/2018,15,4:30:58,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8130535-8140558,8/13/2018,15,22:18:25,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8130535-8140558,8/14/2018,15,4:25:15,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8130535-8140558,8/14/2018,15,4:27:59,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8140025,8/14/2018,17,21:36:09,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8140031,8/14/2018,17,21:39:10,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8140040,8/14/2018,17,21:57:45,Didelphis virginiana,1,good pics of opossum
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8140049,8/14/2018,17,22:18:51,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8140052,8/14/2018,17,22:20:27,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150073,8/15/2018,15,1:11:00,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150082,8/15/2018,15,1:51:14,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150085,8/15/2018,15,1:51:34,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150106,8/15/2018,15,4:21:58,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150109,8/15/2018,15,5:06:02,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150115,8/15/2018,20,20:11:43,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150118,8/15/2018,20,20:16:05,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150121,8/15/2018,20,20:17:33,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150124,8/15/2018,20,20:27:01,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150127,8/15/2018,20,20:28:30,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150136,8/15/2018,17,21:36:18,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150145,8/15/2018,16,23:48:09,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150148,8/15/2018,16,23:49:45,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150157,8/15/2018,16,23:56:31,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160202,8/16/2018,17,20:57:30,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160211,8/16/2018,17,21:00:27,Didelphis virginiana,1,good pics of opossum
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160220,8/16/2018,16,22:31:01,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170172-8170177,8/17/2018,15,21:45:49,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170241,8/17/2018,16,2:01:44,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170244,8/17/2018,16,2:05:35,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170251,8/17/2018,15,5:21:46,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170259,8/17/2018,16,20:50:58,Didelphis virginiana,1,good pic of opossum 8170262
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170268,8/17/2018,17,20:55:11,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170277,8/17/2018,16,23:14:29,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180190-8180192,8/18/2018,15,20:48:49,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180193-8180195,8/18/2018,15,21:14:36,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180298,8/18/2018,16,0:45:05,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180316,8/18/2018,15,4:38:08,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180322,8/18/2018,15,4:44:10,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180325,8/18/2018,15,4:47:24,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180331,8/18/2018,15,4:48:03,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180339,8/18/2018,15,5:44:26,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180352,8/18/2018,16,20:38:15,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180358,8/18/2018,16,20:39:15,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180364,8/18/2018,16,20:40:43,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180367,8/18/2018,16,20:50:28,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180373,8/18/2018,16,21:15:18,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180391,8/18/2018,15,22:30:49,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180394,8/18/2018,15,22:31:49,Didelphis virginiana,1,good opossum pic
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180403,8/18/2018,15,22:37:04,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180418,8/18/2018,16,22:38:14,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190427,8/19/2018,15,5:06:36,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190430,8/19/2018,15,5:14:25,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190436,8/19/2018,15,5:15:32,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190442,8/19/2018,15,5:33:05,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190449,8/19/2018,15,5:35:54,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190457,8/19/2018,16,20:48:03,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190463,8/19/2018,16,20:51:55,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190466,8/19/2018,16,21:13:57,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190472,8/19/2018,16,22:11:56,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190475,8/19/2018,16,22:13:46,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190481,8/19/2018,16,22:28:57,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190487,8/19/2018,16,22:35:54,Didelphis virginiana,1,funny opossum pic
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190490,8/19/2018,16,22:37:12,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200502,8/20/2018,15,2:34:08,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200508,8/20/2018,15,2:35:33,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200523,8/20/2018,15,2:45:32,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200535,8/20/2018,15,4:01:45,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200538,8/20/2018,15,4:08:17,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200547,8/20/2018,15,5:22:38,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200556,8/20/2018,15,5:24:17,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200571,8/20/2018,16,20:06:49,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200574,8/20/2018,16,20:17:07,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200580,8/20/2018,16,20:19:31,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200589,8/20/2018,15,21:03:53,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200592,8/20/2018,15,22:02:10,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200598,8/20/2018,15,22:04:16,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210616,8/21/2018,15,1:37:05,Didelphis virginiana,1,good opossum pic
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210628,8/21/2018,15,1:43:49,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210631,8/21/2018,15,1:45:17,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210634,8/21/2018,15,4:24:03,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210646,8/21/2018,15,5:40:30,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210656,8/21/2018,17,20:16:58,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210661,8/21/2018,17,20:20:30,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210667,8/21/2018,16,20:33:26,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220319-8220327,8/22/2018,13,21:29:03,Didelphis virginiana,1,same spot on left
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220676,8/22/2018,15,0:17:27,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220685,8/22/2018,15,0:19:08,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220694,8/22/2018,15,0:20:18,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220697,8/22/2018,15,0:23:09,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220706,8/22/2018,15,1:17:21,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220715,8/22/2018,15,1:54:54,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220736,8/22/2018,16,20:45:52,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230331-8230336,8/23/2018,10,3:05:24,Didelphis virginiana,1,same spot on left
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230742,8/23/2018,13,1:00:27,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230745,8/23/2018,12,2:39:05,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230748,8/23/2018,12,3:14:01,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230754,8/23/2018,12,3:15:19,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230757,8/23/2018,12,3:17:43,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230760,8/23/2018,12,3:18:01,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230781,8/23/2018,17,20:36:35,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230787,8/23/2018,16,21:02:10,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230793,8/23/2018,16,21:09:29,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230802,8/23/2018,16,21:10:17,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230806,8/23/2018,17,21:10:31,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230808,8/23/2018,16,21:13:20,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230814,8/23/2018,16,21:14:26,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230820,8/23/2018,15,23:32:31,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8240835,8/24/2018,17,20:02:31,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8250838,8/25/2018,15,0:06:26,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8250844,8/25/2018,15,0:11:55,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8250850,8/25/2018,15,2:54:34,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8250853,8/25/2018,13,3:46:26,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8250859,8/25/2018,16,20:18:17,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8250862,8/25/2018,15,20:58:18,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8250865,8/25/2018,15,22:21:53,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8260475-8260480,8/26/2018,11,23:33:44,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8260868,8/26/2018,15,4:49:17,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8260871,8/26/2018,15,4:56:21,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8260874,8/26/2018,15,20:32:44,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8260886,8/26/2018,15,20:33:54,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8260895,8/26/2018,15,20:34:58,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8260898,8/26/2018,15,20:38:23,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270517-8270519,8/27/2018,15,20:32:16,Didelphis virginiana,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,102EK113,8270403-8270411,8/27/2018,16,21:53:10,Didelphis virginiana,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,102EK113,8270403-8270411,8/27/2018,16,22:16:22,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270901,8/27/2018,12,2:37:31,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270904,8/27/2018,12,2:39:05,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270910,8/27/2018,11,4:15:21,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270934,8/27/2018,15,21:28:27,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270946,8/27/2018,15,21:29:23,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8280949,8/28/2018,12,2:52:09,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8280958,8/28/2018,17,20:01:05,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8280961,8/28/2018,17,20:29:33,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8280970,8/28/2018,15,23:20:48,Didelphis virginiana,1,good pic
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8280979,8/28/2018,15,23:30:15,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8290544-8290552,8/29/2018,12,1:20:18,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8290544-8290552,8/29/2018,12,1:55:15,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8290988,8/29/2018,13,3:44:36,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8290991,8/29/2018,12,5:09:58,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,101EK113,8290001,8/29/2018,13,5:10:57,Didelphis virginiana,1,THERE ARE 2 OPOSSUMS INTERACTING
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,101EK113,8290007,8/29/2018,13,5:12:44,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,101EK113,8290013,8/29/2018,13,5:13:50,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,101EK113,8290019,8/29/2018,13,5:16:32,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,101EK113,8290028,8/29/2018,13,5:17:34,Didelphis virginiana,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,101EK113,8290034,8/29/2018,12,5:29:09,Didelphis virginiana,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,101EK113,9060442-9060447,9/6/2018,15,2:49:53,Didelphis virginiana,1,
+COPR,summer,2018,7.3,"34 24' 46.4"" N","119 52' 53.4"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,9070034,9/7/2018,11,21:23:24,Didelphis virginiana,1,8300031 is a FANTASTIC picture of a hawk!!!! in flight!
+COPR,summer,2018,7.3,"34 24' 46.4"" N","119 52' 53.4"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,9090037,9/9/2018,12,22:36:09,Didelphis virginiana,1,
+COPR,summer,2018,7.3,"34 24' 46.4"" N","119 52' 53.4"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,9140043,9/14/2018,11,23:54:46,Didelphis virginiana,1,
+COPR,summer,2018,7.3,"34 24' 46.4"" N","119 52' 53.4"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,9160047,9/16/2018,11,22:11:29,Didelphis virginiana,1,
+COPR,summer,2018,7.3,"34 24' 46.4"" N","119 52' 53.4"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,9160049,9/16/2018,11,22:15:07,Didelphis virginiana,1,
+COPR,summer,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,9180077,9/18/2018,13,20:15:29,Didelphis virginiana,1,
+COPR,summer,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,9200092,9/20/2018,12,19:51:37,Didelphis virginiana,1,
+COPR,summer,2018,7.4,"34 24' 46.4"" N","119 52' 53.4"" W",9/17/2018,11/2/2018,reserve-urban,100EK113,9200096,9/20/2018,12,22:25:48,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160106-8160111,16-Aug,15,1:15:53,Didelphis virginiana,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160136-8160138,16-Aug,17,20:04:40,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8100433-8110447,8/10/18-8/11/18,16,22:43:15,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8100433-8110447,8/10/18-8/11/18,16,22:45:00,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8100433-8110447,8/10/18-8/11/18,15,2:11:43,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8100433-8110447,8/10/18-8/11/18,15,2:16:10,Didelphis virginiana,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8260937-8270942,8/26/18-8/27/18,15,22:27:11,Didelphis virginiana,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8260937-8270942,8/26/18-8/27/18,15,2:39:56,Didelphis virginiana,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8020070-8020072,8/2/2018,15,21:04:43,Didelphis virginiana,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8250649-8250654,8/25/2018,25,17:03:17,Lynx rufus,1,went swimming! Great pic
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,101EK113,9020079-9020081,9/2/2018,22,18:07:06,Lynx rufus,1,it's a baby bobcat!! omg!!!!
+COPR,fall,2018,7.5,"34 24' 46.4"" N","119 52' 53.4"" W",11/2/2018,1/13/2019,reserve-urban,100EK113,12130068,12/13/2018,3,5:50:36,Mephitis mephitis,1,"unsure if it is a skunk, v close to camera"
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050175-8050177,8/5/2018,13,1:25:29,Mephitis mephitis,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8100418-8100420,8/10/2018,13,3:18:10,Mephitis mephitis,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,9010652-9010657,9/1/2018,15,5:34:50,Mephitis mephitis,1,Skunk! great pic
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,101EK113,9090553-9090558,9/9/2018,15,1:00:58,Mephitis mephitis,1,possibly baby
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,102EK113,8280748-8280753,8/28/2018,17,20:37:00,Procyon lotor,1,raccoon!
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,101EK113,9100673-9100678,9/10/2018,15,5:42:10,Procyon lotor,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,102EK113,9140293-9140300,9/14/2018,10,5:47:57,Procyon lotor,1,"starts with tip of ear on left, then can barely see raccoon walking away on right"
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8010025-8010027,8/1/2018,21,13:05:12,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8020058-8020069,8/2/2018,12,4:50:14,rodent,2,"mice, pic with both on log!"
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8030106-8030108,8/3/2018,12,5:08:48,rodent,1,mouse playing on log
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8030109-8030114,8/3/2018,17,9:00:09,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8030109-8030114,8/3/2018,17,9:01:11,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8030124-8030126,8/3/2018,15,21:18:46,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8030130-8030150,8/3/2018,13,22:15:38,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8030130-8030150,8/3/2018,13,22:23:09,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8030130-8030150,8/3/2018,13,22:30:25,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8040151-8040156,8/4/2018,12,2:43:55,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050196-8050198,8/5/2018,20,10:19:58,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050202-8050204,8/5/2018,21,15:22:47,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050163-8050174,8/5/2018,13,0:03:30,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050163-8050174,8/5/2018,13,0:37:33,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050163-8050174,8/5/2018,13,0:55:11,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050178-8050180,8/5/2018,12,2:08:04,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050184-8050195,8/5/2018,12,3:03:55,rodent,1,mice
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050184-8050195,8/5/2018,12,3:22:16,rodent,2,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050184-8050195,8/5/2018,12,3:26:28,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050184-8050195,8/5/2018,12,4:48:09,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060247-8060258,8/6/2018,12,2:09:14,rodent,1,mice
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060247-8060258,8/6/2018,13,2:10:48,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060259-8060267,8/6/2018,13,4:25:55,rodent,1,mice
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060259-8060267,8/6/2018,13,4:27:28,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,20,20:30:37,rodent,1,mice
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,20,20:38:32,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,20,20:52:45,rodent,3,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,17,21:13:54,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,17,21:19:22,rodent,2,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,17,21:33:14,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,17,21:40:06,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,17,21:41:15,rodent,2,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,17,21:49:43,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,17,21:52:45,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,17,21:56:24,rodent,3,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060268-8060309,8/6/2018,16,22:18:47,rodent,2,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8060316-8060318,8/6/2018,16,23:11:48,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8070322-8070327,8/7/2018,15,1:43:05,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8070328-8070330,8/7/2018,15,3:50:58,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8070331-8070339,8/7/2018,15,5:04:32,rodent,1,"mouse, tail on left"
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080364-8080369,8/8/2018,23,10:30:41,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080370-8080378,8/8/2018,26,13:22:28,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080370-8080378,8/8/2018,26,13:38:31,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080343-8080345,8/8/2018,15,3:05:19,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080349-8080351,8/8/2018,15,4:53:14,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080382-8080384,8/8/2018,15,23:45:54,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8080361-8080363,8/8/2018,21,9:20:25,rodent,1,Sciurus griseus
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8090388-8090390,8/9/2018,15,3:24:33,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8090394-8090396,8/9/2018,15,4:15:01,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8090406-8090417,8/9/2018,15,23:44:57,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8090406-8090417,8/9/2018,15,23:52:59,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8100430-8100432,8/10/2018,16,21:41:00,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8110448-8110449,8/11/2018,15,3:19:04,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8110451-8110453,8/11/2018,15,3:44:05,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8110460-8110477,8/11/2018,15,21:29:45,rodent,2,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8110460-8110477,8/11/2018,15,21:31:34,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8120517-8120522,8/12/2018,22,8:05:29,rodent,1,Sciurus griseus
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8120517-8120522,8/12/2018,22,10:31:53,rodent,1,Sciurus griseus
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8130526-8130528,8/13/2018,15,2:44:02,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8140559-8140561,8/14/2018,15,5:35:06,rodent,1,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8140562-8140570,8/14/2018,21,10:03:29,rodent,1,Sciurus griseus
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8140562-8140570,8/14/2018,21,10:09:54,rodent,1,Sciurus griseus
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150061,8/15/2018,15,0:44:47,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150067,8/15/2018,16,0:50:02,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150097,8/15/2018,15,3:49:09,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8150142,8/15/2018,17,22:48:45,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160178,8/16/2018,16,8:06:17,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160181,8/16/2018,16,8:26:32,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160184,8/16/2018,25,11:56:58,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160166,8/16/2018,16,1:04:00,rodent,2,8160168 = great pic of 2 mice on log
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160169,8/16/2018,15,2:00:53,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160172,8/16/2018,15,2:15:56,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160223,8/16/2018,16,22:35:26,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160187,8/16/2018,25,13:03:41,rodent,1,Sciurus griseus
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8160190,8/16/2018,25,13:09:36,rodent,1,Sciurus griseus
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170256,8/17/2018,17,8:32:13,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170229,8/17/2018,16,0:22:13,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170232,8/17/2018,16,1:04:10,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170235,8/17/2018,16,1:14:10,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170238,8/17/2018,16,1:44:58,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170247,8/17/2018,15,3:29:35,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170283,8/17/2018,16,23:22:31,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170292,8/17/2018,16,23:35:14,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180343,8/18/2018,16,8:20:18,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180297,8/18/2018,16,0:42:54,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180310,8/18/2018,15,2:38:58,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180313,8/18/2018,15,3:33:22,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180340,8/18/2018,15,5:55:05,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180382,8/18/2018,15,21:41:56,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180388,8/18/2018,15,21:58:24,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8180421,8/18/2018,15,23:23:26,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190469,8/19/2018,16,21:24:46,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190493,8/19/2018,15,23:14:42,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190496,8/19/2018,15,23:48:27,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200544,8/20/2018,15,4:26:41,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200562,8/20/2018,15,5:33:09,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200565,8/20/2018,15,8:05:31,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8200568,8/20/2018,16,9:42:14,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210644,8/21/2018,15,4:52:47,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210673,8/21/2018,15,23:46:21,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220718,8/22/2018,16,9:21:04,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230769,8/23/2018,12,5:16:02,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230775,8/23/2018,22,12:11:01,rodent,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8240409-8240414,8/24/2018,21,11:10:37,rodent,1,Sciurus griseus
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8240826,8/24/2018,17,9:05:38,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8240829,8/24/2018,21,9:53:06,rodent,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8260469-8260471,8/26/2018,17,9:56:54,rodent,1,Sciurus griseus
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270922,8/27/2018,11,4:32:52,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270925,8/27/2018,13,8:03:23,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270928,8/27/2018,13,8:07:13,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8280952,8/28/2018,11,4:17:22,rodent,1,
+COPR,summer,2018,8.2,"34 24' 58.4"" N","119 53' 05.7"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8280964,8/28/2018,16,20:36:51,rodent,1,looking at the transition from opossum to mouse is funny here!
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8290580-8290582,8/29/2018,20,9:04:37,rodent,1,Otospermophilus beecheyi
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8010033-8020054,8/1/18-8/2/18,15,20:47:18,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8010033-8020054,8/1/18-8/2/18,15,20:48:52,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8010033-8020054,8/1/18-8/2/18,15,21:51:28,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8010033-8020054,8/1/18-8/2/18,13,0:16:29,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8110484-8120507,8/11/18-8/12/18,15,23:31:48,rodent,2,mouse
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8020076-8030096,8/2/18-8/3/18,15,22:18:27,rodent,1,mouse playing on log
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8020076-8030096,8/2/18-8/3/18,15,22:29:35,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8020076-8030096,8/2/18-8/3/18,15,0:18:31,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8020076-8030096,8/2/18-8/3/18,13,2:54:51,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8020076-8030096,8/2/18-8/3/18,13,3:11:10,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050205-8060243,8/5/18-8/6/18,13,23:54:41,rodent,1,mice
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050205-8060243,8/5/18-8/6/18,13,0:01:04,rodent,2,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050205-8060243,8/5/18-8/6/18,13,0:26:50,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050205-8060243,8/5/18-8/6/18,13,0:29:22,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050205-8060243,8/5/18-8/6/18,13,0:30:24,rodent,1,
+COPR,summer,2018,8.1,"34 24' 58.4"" N","119 53' 05.7"" W",8/1/2018,8/14/2018,reserve-urban,100EK113,8050205-8060243,8/5/18-8/6/18,13,0:52:59,rodent,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170142-8170144,8/17/2018,15,5:46:59,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8170148-8170153,8/17/2018,20,8:33:43,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190244-8190246,8/19/2018,16,19:51:23,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8190250-8190252,8/19/2018,15,23:24:44,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210271-8210282,8/21/2018,15,6:02:06,Sylvilagus bachmani,2,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210295-8210300,8/21/2018,13,11:21:01,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8210295-8210300,8/21/2018,13,23:25:22,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220301-8220303,8/22/2018,15,6:07:46,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220310-8220315,8/22/2018,16,19:46:47,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220316-8220318,8/22/2018,15,19:52:11,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8220328-8220330,8/22/2018,12,23:19:34,Sylvilagus bachmani,1,same spot on left
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8230359-8230360,8/23/2018,16,19:46:57,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8240361-8240369,8/24/2018,12,4:07:04,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8240439-8240441,8/24/2018,17,19:52:10,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8240436-8240441,8/24/2018,20,22:39:00,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8250451-8250456,8/25/2018,15,5:05:47,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8250460-8250465,8/25/2018,15,5:08:41,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8250460-8250465,8/25/2018,15,5:10:36,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8250655-8250714,8/25/2018,17,21:46:34,Sylvilagus bachmani,2,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8260451-820453,8/26/2018,16,9:34:19,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8260466-8260468,8/26/2018,16,9:46:31,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270481-8270486,8/27/2018,10,3:30:04,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8270493-8270495,8/27/2018,10,4:59:41,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8280520-8280522,8/28/2018,10,5:12:29,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,102EK113,8280412-8280420,8/28/2018,13,1:19:52,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,102EK113,8280412-8280420,8/28/2018,13,1:21:09,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,102EK113,8280424-8280426,8/28/2018,12,6:34:31,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8290553-8290558,8/29/2018,11,3:38:49,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8290553-8290558,8/29/2018,11,3:44:56,Sylvilagus bachmani,2,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8290559-8290564,8/29/2018,10,6:08:03,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,102EK113,8290754-8290771,8/29/2018,16,0:30:33,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,102EK113,8290754-8290771,8/29/2018,15,0:48:41,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,102EK113,8290754-8290771,8/29/2018,15,0:55:46,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,102EK113,9130145-9130153,9/13/2018,15,9:04:04,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,102EK113,9130145-9130153,9/13/2018,15,9:07:45,Sylvilagus bachmani,1,
+COPR,summer,2018,7.2,"34 24' 46.4"" N","119 52' 53.4"" W",8/14/2018,8/29/2018,reserve-urban,100EK113,8140073-8140075,14-Aug,17,19:59:52,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8230028-8240054,8/23/18-8/24/18,17,23:38:20,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8230028-8240054,8/23/18-8/24/18,17,0:07:23,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8230028-8240054,8/23/18-8/24/18,17,0:16:33,Sylvilagus bachmani,1,
+COPR,summer,2018,6.1,"34 24' 40.5"" N","119 52' 42.7"" W",8/22/2018,8/29/2018,reserve-urban,101EK113,8230028-8240054,8/23/18-8/24/18,17,0:18:03,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,8290037-8300051,8/29/18-8/30/18,16,23:29:09,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,8290037-8300051,8/29/18-8/30/18,16,23:32:08,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,8290037-8300051,8/29/18-8/30/18,12,2:37:40,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,8300163-8310201,8/30/18-8/31/18,20,23:03:20,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,8300163-8310201,8/30/18-8/31/18,17,1:30:20,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,8300163-8310201,8/30/18-8/31/18,17,1:31:11,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,8300163-8310201,8/30/18-8/31/18,17,1:32:40,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,100EK113,8300163-8310201,8/30/18-8/31/18,13,5:20:45,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,102EK113,9160865-9170879,9/16/18-9/17/18,12,23:46:55,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,102EK113,9160865-9170879,9/16/18-9/17/18,12,0:29:26,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,102EK113,9160865-9170879,9/16/18-9/17/18,12,0:30:43,Sylvilagus bachmani,1,
+COPR,summer,2018,6.2,"34 24' 40.5"" N","119 52' 42.7"" W",8/29/2018,9/17/2018,reserve-urban,102EK113,9160865-9170879,9/16/18-9/17/18,12,0:55:30,Sylvilagus bachmani,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12180628,12/18/2018,3,5:52:37,Lynx rufus,1,bobcat!!! great pic
+Sedg,summer,2018,16.1,"34 42' 39.3"" N","120 02' 23.9"" W",7/25/2018,8/10/2018,reserve-natural,100EK113,7280010-7280012,7/28/2018,15,0:37:30,Lynx rufus,1,CHECK if it is a bobcat...tail is short but dont see spots on hind leg...could be red fox cause tail tip is white-ish?
+Sedg,summer,2018,16.1,"34 42' 39.3"" N","120 02' 23.9"" W",7/25/2018,8/10/2018,reserve-natural,100EK113,7290013-7290015,7/29/2018,11,7:10:25,Lynx rufus,1,bobcat
+Sedg,summer,2018,16.1,"34 42' 39.3"" N","120 02' 23.9"" W",7/25/2018,8/10/2018,reserve-natural,100EK113,8050073-8050075,8/5/2018,21,20:54:29,Lynx rufus,1,I think bobcat cause tail tip does not look bushy and is black
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,9030259-9030264,9/3/2018,21,10:15:15,Lynx rufus,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,9070277-9070282,9/7/2018,11,3:26:29,Lynx rufus,1,
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12250733,12/25/2018,10,12:28:06,Lynx rufus,1,bobcat!!! great pic
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12250742,12/25/2018,10,20:17:14,Lynx rufus,1,great pic of bobcat crouching 744
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12270774,12/27/2018,8,20:47:52,Lynx rufus,1,
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12280796,12/28/2018,1,23:13:22,Lynx rufus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,1050895,1/5/2019,11,14:44:39,Lynx rufus,1,bobcat!!!!!
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1090077,1/9/2019,10,2:44:40,Lynx rufus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1160151,1/16/2019,15,16:03:28,Lynx rufus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1170280,1/17/2019,11,18:49:55,Lynx rufus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1200337,1/20/2019,12,17:57:13,Lynx rufus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1220354,1/22/2019,7,7:36:18,Lynx rufus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1240424,1/24/2019,10,1:27:40,Lynx rufus,1,BOBCAT DURING THE DAY
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2060085,2/6/2019,10,12:47:50,Lynx rufus,1,"BOBCAT DURING THE DAY, 2060090 great pic"
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2070091,2/7/2019,-1,3:11:30,Lynx rufus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2090117,2/9/2019,5,20:12:48,Lynx rufus,1,2090118 great pic
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2120129,2/12/2019,10,23:51:55,Lynx rufus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2130142,2/13/2019,12,19:50:25,Lynx rufus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2170154,2/17/2019,5,2:53:50,Lynx rufus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2180157,2/18/2019,10,12:27:19,Lynx rufus,1,BOBCAT DURING THE DAY
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2210256,2/21/2019,5,19:49:04,Lynx rufus,1,good pic 2210259
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2250322,2/25/2019,3,22:09:40,Lynx rufus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3030418,3/3/2019,15,15:38:36,Lynx rufus,1,BOBCAT DURING THE DAY
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12230683,12/23/2018,5,2:36:39,Mephitis mephitis,1,not sure if it is spotted or striped
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12250750,12/25/2018,10,21:22:15,Mephitis mephitis,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2130133,2/13/2019,10,0:51:10,Mephitis mephitis,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2270358,2/27/2019,11,18:23:57,Mephitis mephitis,1,good pic
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3010401,3/1/2019,11,20:43:27,Mephitis mephitis,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11230400,11/23/2018,3,5:40:02,Odocoileus hemionus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12050508,12/5/2018,12,15:19:17,Odocoileus hemionus,1,mule deer great pics! approaches camera
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12240713,12/24/2018,15,15:58:30,Odocoileus hemionus,1,mule deer
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,1050892,1/5/2019,10,9:48:58,Odocoileus hemionus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1070022,1/7/2019,13,15:49:42,Odocoileus hemionus,2,great pics of deer
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1070028,1/7/2019,13,15:52:24,Odocoileus hemionus,2,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1080046,1/8/2019,13,16:36:31,Odocoileus hemionus,3,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1080055,1/8/2019,13,16:43:29,Odocoileus hemionus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1080061,1/8/2019,13,16:48:12,Odocoileus hemionus,3,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1110092,1/11/2019,12,16:51:37,Odocoileus hemionus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1170157,1/17/2019,13,15:32:14,Odocoileus hemionus,3,"rain created river in front of trap, great pics of deer!"
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1170178,1/17/2019,13,15:36:59,Odocoileus hemionus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1170184,1/17/2019,13,16:04:24,Odocoileus hemionus,2,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1170214,1/17/2019,15,16:05:26,Odocoileus hemionus,4,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1170226,1/17/2019,13,16:09:04,Odocoileus hemionus,4,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1170250,1/17/2019,13,16:11:37,Odocoileus hemionus,4,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1200307,1/20/2019,15,13:00:39,Odocoileus hemionus,4,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1220358,1/22/2019,15,13:09:20,Odocoileus hemionus,1,GREAT PICS OF MULE DEER
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1220371,1/22/2019,15,13:11:34,Odocoileus hemionus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1230376,1/23/2019,15,14:54:24,Odocoileus hemionus,1,A MALE with ANTLERS
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1230398,1/23/2019,16,14:57:48,Odocoileus hemionus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1230406,1/23/2019,15,15:18:25,Odocoileus hemionus,3,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1260445,1/26/2019,11,10:59:01,Odocoileus hemionus,3,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1260473,1/26/2019,11,11:01:10,Odocoileus hemionus,3,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2010064,2/1/2019,11,17:05:42,Odocoileus hemionus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2090110,2/9/2019,10,16:33:46,Odocoileus hemionus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2100121,2/10/2019,6,16:59:25,Odocoileus hemionus,1,great pic
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2130136,2/13/2019,11,6:37:16,Odocoileus hemionus,4,creepy pic of deer in the night 2130138
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2140145,2/14/2019,12,13:30:10,Odocoileus hemionus,1,good pic
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2200179,2/20/2019,10,14:22:28,Odocoileus hemionus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2200196,2/20/2019,11,14:23:44,Odocoileus hemionus,2,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2200205,2/20/2019,10,14:54:45,Odocoileus hemionus,3,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2200217,2/20/2019,8,15:16:31,Odocoileus hemionus,2,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2200228,2/20/2019,8,15:17:33,Odocoileus hemionus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2210238,2/21/2019,8,10:50:00,Odocoileus hemionus,2,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3040424,3/4/2019,10,18:40:14,Odocoileus hemionus,1,hilarious sequence of a deer dropping it low
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3050427,3/5/2019,6,6:29:03,Odocoileus hemionus,2,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3070457,3/7/2019,8,9:00:28,Odocoileus hemionus,2,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3070466,3/7/2019,10,9:04:49,Odocoileus hemionus,2,3070479 good pic of doves with river
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3070481,3/7/2019,12,12:10:24,Odocoileus hemionus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3100577,3/10/2019,11,16:38:00,Odocoileus hemionus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3160628,3/16/2019,12,8:57:27,Odocoileus hemionus,3,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3160661,3/16/2019,12,9:02:04,Odocoileus hemionus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12040493,12/4/2018,5,9:09:34,Puma concolor,1,MOUNTAIN LION
+Sedg,summer,2018,16.1,"34 42' 39.3"" N","120 02' 23.9"" W",7/25/2018,8/10/2018,reserve-natural,100EK113,8050070-8050072,8/5/2018,21,20:54:25,Puma concolor,1,mtn lion
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12290801,12/29/2018,-2,8:24:03,Puma concolor,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11040028,11/4/2018,26,11:50:51,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11040037,11/4/2018,30,13:31:52,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11040043,11/4/2018,30,13:36:14,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11040049,11/4/2018,30,13:38:29,rodent,1,"squirrel, 11040055 and 11040060 cute pics of squirrel with blue jay"
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11040064,11/4/2018,30,13:41:21,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11040079,11/4/2018,30,13:50:44,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11070118,11/7/2018,25,15:17:27,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11130221,11/13/2018,22,12:44:55,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11130235,11/13/2018,22,13:12:47,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11130249,11/13/2018,22,13:18:15,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11140253,11/14/2018,23,12:44:25,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11140274,11/14/2018,23,13:32:17,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11150292,11/15/2018,15,12:55:49,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11160295,11/16/2018,15,10:41:04,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11160298,11/16/2018,21,13:43:39,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11170323,11/17/2018,21,14:13:36,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11200388,11/20/2018,12,10:43:41,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12090541,12/9/2018,11,11:10:52,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12130553,12/13/2018,20,14:01:52,rodent,1,squirrel
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12200643,12/20/2018,15,12:06:58,rodent,1,squirrel
+Sedg,summer,2018,16.1,"34 42' 39.3"" N","120 02' 23.9"" W",7/25/2018,8/10/2018,reserve-natural,100EK113,8010052-8010063,8/1/2018,35,10:47:17,rodent,1,Otospermophilus beecheyi
+Sedg,summer,2018,16.1,"34 42' 39.3"" N","120 02' 23.9"" W",7/25/2018,8/10/2018,reserve-natural,100EK113,8010052-8010063,8/1/2018,35,10:51:18,rodent,1,Otospermophilus beecheyi
+Sedg,summer,2018,16.1,"34 42' 39.3"" N","120 02' 23.9"" W",7/25/2018,8/10/2018,reserve-natural,100EK113,8010065-8010066,8/1/2018,37,11:59:22,rodent,1,Otospermophilus beecheyi
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8120076-8120078,8/12/2018,15,2:49:31,rodent,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8140088-8140105,8/14/2018,20,9:23:55,rodent,1,Sciurus griseus
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8140088-8140105,8/14/2018,20,9:24:57,rodent,1,Sciurus griseus
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8140088-8140105,8/14/2018,21,9:27:26,rodent,1,Sciurus griseus
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8140112-8140114,8/14/2018,21,9:28:25,rodent,1,Sciurus griseus
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8150118-8150120,8/15/2018,12,1:08:47,rodent,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8160124-8160126,8/16/2018,13,2:11:57,rodent,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8200136-8200138,8/20/2018,11,2:38:38,rodent,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8220166-8220167,8/22/2018,11,3:09:36,rodent,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8280200-8280201,8/28/2018,15,20:53:33,rodent,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8300223-8300225,8/30/2018,13,22:12:48,rodent,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,9020244-9020246,9/2/2018,15,22:55:57,rodent,1,"note: pic of owl 9030247-9030252, temp 12, time 1:10:07"
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,9050274-9050276,9/5/2018,26,17:40:14,rodent,1,
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12220681,12/22/2018,16,13:10:41,rodent,1,squirrel
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,1060906,1/6/2019,10,11:46:33,rodent,1,squirrel
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,1060933,1/6/2019,11,13:25:12,rodent,1,squirrel
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,1060952,1/6/2019,11,13:34:40,rodent,1,squirrel
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,1060964,1/6/2019,11,13:41:11,rodent,1,squirrel
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,1060973,1/6/2019,11,13:59:42,rodent,1,squirrel
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,1060986,1/6/2019,11,14:00:04,rodent,1,squirrel
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1160146,1/16/2019,10,9:27:00,rodent,1,squirrel
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1200292,1/20/2019,10,10:40:21,rodent,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1260483,1/26/2019,13,11:29:51,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2010063,2/1/2019,5,2:11:16,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2020076,2/2/2019,10,0:48:06,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2020084,2/2/2019,10,1:46:36,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2080108,2/8/2019,5,23:33:11,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2190163,2/19/2019,5,9:35:19,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2230280,2/23/2019,-2,7:43:09,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2240292,2/24/2019,2,8:13:18,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2270340,2/27/2019,12,14:46:02,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2270344,2/27/2019,12,14:49:59,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2270348,2/27/2019,12,14:58:27,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2270352,2/27/2019,12,15:31:04,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3010372,3/1/2019,16,11:41:06,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3010374,3/1/2019,16,11:45:19,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3010385,3/1/2019,17,13:02:04,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3010394,3/1/2019,16,13:16:01,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3020403,3/2/2019,10,4:23:39,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3020409,3/2/2019,10,5:31:32,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3090558,3/9/2019,6,23:27:28,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3100561,3/10/2019,5,3:12:46,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3100562,3/10/2019,5,3:18:56,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3100567,3/10/2019,3,4:47:37,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3140598,3/14/2019,10,9:13:52,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3150621,3/15/2019,21,11:54:01,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3150623,3/15/2019,20,13:54:59,rodent,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3150625,3/15/2019,20,15:08:08,rodent,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11100187,11/10/2018,10,19:12:16,Spilogale gracilis,1,W SPOTTED SKUNK
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11030019,11/3/2018,21,19:05:23,Urocyon cinereoargenteus,2,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11030025,11/3/2018,21,20:33:15,Urocyon cinereoargenteus,1,bobcat?
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11070106,11/7/2018,5,3:37:22,Urocyon cinereoargenteus,3,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11100178,11/10/2018,21,11:21:15,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11110196,11/11/2018,5,22:18:21,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11160313,11/16/2018,5,22:29:00,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11170358,11/17/2018,12,18:56:10,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11180361,11/18/2018,7,1:51:05,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11180364,11/18/2018,5,4:19:58,Urocyon cinereoargenteus,2,TWO FOXES INTERACTING FOR 6 PICS
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11190379,11/19/2018,11,18:42:45,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11190382,11/19/2018,10,19:07:33,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,11230418,11/23/2018,12,19:23:23,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12050505,12/5/2018,10,3:09:05,Urocyon cinereoargenteus,1,Good pics of fox!
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12070532,12/7/2018,15,16:42:12,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12070538,12/7/2018,6,20:17:22,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12140562,12/14/2018,6,1:55:05,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12180625,12/18/2018,3,5:15:27,Urocyon cinereoargenteus,1,
+Sedg,summer,2018,16.1,"34 42' 39.3"" N","120 02' 23.9"" W",7/25/2018,8/10/2018,reserve-natural,100EK113,8010046-8010051,8/1/2018,20,0:56:24,Urocyon cinereoargenteus,1,Grey fox
+Sedg,summer,2018,16.1,"34 42' 39.3"" N","120 02' 23.9"" W",7/25/2018,8/10/2018,reserve-natural,100EK113,8040067-8040069,8/4/2018,33,15:47:17,Urocyon cinereoargenteus,1,
+Sedg,summer,2018,16.1,"34 42' 39.3"" N","120 02' 23.9"" W",7/25/2018,8/10/2018,reserve-natural,100EK113,8100076-8100078,8/10/2018,16,5:19:46,Urocyon cinereoargenteus,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8210142-8210147,8/21/2018,10,6:22:53,Urocyon cinereoargenteus,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8210142-8210147,8/21/2018,10,6:24:21,Urocyon cinereoargenteus,1,
+Sedg,summer,2018,16.2,"34 42' 39.3"" N","120 02' 23.9"" W",8/10/2018,9/7/2018,reserve-natural,100EK113,8210157-8210159,8/21/2018,17,20:42:09,Urocyon cinereoargenteus,1,
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12220655,12/22/2018,5,6:33:05,Urocyon cinereoargenteus,1,FOX TAKING A DUMP 12220657 HAHAHA
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12270781,12/27/2018,7,22:42:35,Urocyon cinereoargenteus,1,
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12280790,12/28/2018,1,22:12:02,Urocyon cinereoargenteus,1,
+Sedg,winter,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12310817,12/31/2018,5,20:53:51,Urocyon cinereoargenteus,1,good pic!
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,1040887,1/4/2019,0,6:05:37,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,1050900,1/5/2019,6,22:34:03,Urocyon cinereoargenteus,1,fox pics!!!!!!!!
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1080067,1/8/2019,10,19:58:55,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1100079,1/10/2019,5,0:00:04,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1100083,1/10/2019,6,1:21:27,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1100085,1/10/2019,6,20:00:00,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1120094,1/12/2019,7,6:20:56,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1130100,1/13/2019,2,1:44:45,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1160115,1/16/2019,8,5:51:22,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1160118,1/16/2019,8,6:05:03,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1160124,1/16/2019,10,7:03:50,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1180283,1/18/2019,5,2:22:21,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1180286,1/18/2019,5,5:39:12,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1200343,1/20/2019,10,21:57:10,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1250439,1/25/2019,5,23:16:34,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,101EK113,1260442,1/26/2019,2,1:46:45,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2150151,2/15/2019,5,4:14:52,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2200229,2/20/2019,6,19:41:13,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2200232,2/20/2019,5,21:03:59,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2210253,2/21/2019,5,19:39:52,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2230289,2/23/2019,3,20:52:50,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2270361,2/27/2019,11,22:22:10,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2270364,2/27/2019,11,22:23:28,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,2270367,2/27/2019,11,23:18:57,Urocyon cinereoargenteus,1,
+Sedg,winter,2019,16.4,"34 42' 39.3"" N","120 02' 23.9"" W",1/26/2019,3/16/2019,reserve-natural,none,3140583,3/14/2019,2,1:01:22,Urocyon cinereoargenteus,1,
+Sedg,fall,2018,16.3,"34 42' 39.3"" N","120 02' 23.9"" W",11/3/2018,1/26/2019,reserve-natural,100EK113,12010433,12/1/2018,7,0:39:17,Ursus americanus,1,BLACK BEAR HOLY SHIT
+UCSB,summer,2018,20.1,"34 24' 23.4"" N","119 50' 45.1"" W",8/20/2018,8/29/2018,urban,100EK113,8280199,8/28/2018,13,2:29:54,Didelphis virginiana,1,
+UCSB,summer,2018,20.1,"34 24' 23.4"" N","119 50' 45.1"" W",8/20/2018,8/29/2018,urban,100EK113,8280207,8/28/2018,13,2:39:08,Didelphis virginiana,1,"looks dark to be an opossum, but it is porbably just in shadow? an opossum was spotted in the same corner 10 min earlier"
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,8310178,8/31/2018,16,0:17:29,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,8310184,8/31/2018,15,2:05:51,Didelphis virginiana,1,8310184 opossum pic
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9080427,9/8/2018,15,22:08:00,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9090436,9/9/2018,13,2:49:44,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9090445,9/9/2018,15,21:59:58,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9100472,9/10/2018,12,22:47:43,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9110481,9/11/2018,12,2:46:15,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9110520,9/11/2018,13,20:23:39,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9110526,9/11/2018,13,22:44:30,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9120532,9/12/2018,12,22:12:35,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9140577,9/14/2018,15,21:48:27,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9150580,9/15/2018,15,0:19:48,Didelphis virginiana,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9160637,9/16/2018,13,23:01:42,Didelphis virginiana,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12210520,12/21/2018,10,3:12:54,Didelphis virginiana,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12210526,12/21/2018,10,3:24:22,Didelphis virginiana,1,amazing pic of opossum
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,1060611,1/6/2019,17,2:46:26,Didelphis virginiana,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,1060616,1/6/2019,16,2:58:52,Didelphis virginiana,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,1090653,1/9/2019,10,4:11:54,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1130121,1/13/2019,10,21:01:05,Didelphis virginiana,1,FAT opossum
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1150175,1/15/2019,10,19:50:20,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1180194,1/18/2019,10,21:12:28,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1200241,1/20/2019,11,20:00:45,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1200244,1/20/2019,11,20:29:29,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1270337,1/27/2019,10,1:57:54,Didelphis virginiana,1,great opossum pic
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1270352,1/27/2019,10,3:50:00,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1290367,1/29/2019,10,1:09:12,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1310403,1/31/2019,10,3:10:38,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2010416,2/1/2019,7,1:16:48,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2010421,2/1/2019,7,1:42:01,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2020424,2/2/2019,8,1:46:36,Didelphis virginiana,1,wet opossum ha
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2020434,2/2/2019,10,18:59:09,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2020439,2/2/2019,10,19:33:52,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2020442,2/2/2019,10,20:03:28,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2020448,2/2/2019,10,21:14:00,Didelphis virginiana,1,"opossum(s) seem to be passing the camera then coming back after a little while along the same path, has ocurred several times, sometimes is wet"
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2030458,2/3/2019,8,20:52:31,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2030463,2/3/2019,8,21:59:33,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2050511,2/5/2019,3,23:33:31,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2050517,2/5/2019,3,23:46:38,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2060526,2/6/2019,6,20:16:27,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2070533,2/7/2019,6,20:06:28,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2080566,2/8/2019,7,20:42:52,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2110600,2/11/2019,5,0:17:29,Didelphis virginiana,1,good opossum pic 2110602 & 04
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2110610,2/11/2019,5,0:34:37,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2110616,2/11/2019,5,20:14:27,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2110637,2/11/2019,5,21:38:57,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2110643,2/11/2019,5,21:44:25,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2120658,2/12/2019,10,19:21:34,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2140703,2/14/2019,7,21:59:42,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2150718,2/15/2019,6,0:51:35,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2150724,2/15/2019,6,2:38:33,Didelphis virginiana,1,great pic 2150727
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2150738,2/15/2019,6,2:56:01,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2150763,2/15/2019,7,19:28:48,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2170781,2/17/2019,6,0:59:31,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2170881,2/17/2019,6,18:53:02,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2190832,2/19/2019,6,20:29:34,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2220955,2/22/2019,6,23:27:10,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2220960,2/22/2019,6,23:37:15,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2230961,2/23/2019,5,0:21:14,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2230005,2/23/2019,5,23:59:38,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2240010,2/24/2019,5,0:21:57,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2270076,2/27/2019,8,0:46:33,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2280095,2/28/2019,10,20:29:31,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,3020115,3/2/2019,10,23:43:51,Didelphis virginiana,1,hilarious pic of opossum
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,3040145,3/4/2019,8,0:39:55,Didelphis virginiana,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,3040148,3/4/2019,8,1:05:54,Didelphis virginiana,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10260013,10/26/2018,15,18:49:47,Mephitis mephitis,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10280061,10/28/2018,12,6:59:13,Mephitis mephitis,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10300087,10/30/2018,15,23:09:10,Mephitis mephitis,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11050160,11/5/2018,12,20:39:08,Mephitis mephitis,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11080168,11/8/2018,11,21:41:32,Mephitis mephitis,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11080172,11/8/2018,12,21:44:52,Mephitis mephitis,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11090193,11/9/2018,18,5:32:33,Mephitis mephitis,1,good skunk pic
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11250335,11/25/2018,11,20:25:57,Mephitis mephitis,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11300385,11/30/2018,10,21:07:03,Mephitis mephitis,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12040430,12/4/2018,11,21:19:59,Mephitis mephitis,1,GREAT PIC OF SKUNK
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12110484,12/11/2018,10,1:13:56,Mephitis mephitis,1,good skunk pic
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12200517,12/20/2018,17,2:33:21,Mephitis mephitis,1,
+UCSB,summer,2018,20.1,"34 24' 23.4"" N","119 50' 45.1"" W",8/20/2018,8/29/2018,urban,100EK113,8230127,8/23/2018,15,2:24:07,Mephitis mephitis,1,
+UCSB,summer,2018,20.1,"34 24' 23.4"" N","119 50' 45.1"" W",8/20/2018,8/29/2018,urban,100EK113,8260179,8/26/2018,15,1:24:42,Mephitis mephitis,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9150583,9/15/2018,13,4:53:16,Mephitis mephitis,1,good skunk pic
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9150598,9/15/2018,13,4:55:35,Mephitis mephitis,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12280562,12/28/2018,18,0:50:26,Mephitis mephitis,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12280568,12/28/2018,18,1:01:39,Mephitis mephitis,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1140130,1/14/2019,10,5:10:44,Mephitis mephitis,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1190205,1/19/2019,7,2:20:01,Mephitis mephitis,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1210250,1/21/2019,7,6:42:32,Mephitis mephitis,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1240283,1/24/2019,6,4:00:06,Mephitis mephitis,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1240292,1/24/2019,6,5:44:00,Mephitis mephitis,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1260316,1/26/2019,7,0:46:21,Mephitis mephitis,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1260322,1/26/2019,6,3:31:41,Mephitis mephitis,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1270344,1/27/2019,10,2:55:27,Mephitis mephitis,1,AMAZING SKUNK PIC
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2050508,2/5/2019,5,21:58:45,Mephitis mephitis,1,AMAZING SKUNK PIC
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2170784,2/17/2019,5,2:06:11,Mephitis mephitis,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2180823,2/18/2019,7,20:44:48,Mephitis mephitis,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2220950,2/22/2019,7,22:25:59,Mephitis mephitis,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10310088,10/31/2018,12,20:46:28,Procyon lotor,2,2 RACOOONS 10310092 GOOD PIC
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11030145,11/3/2018,12,22:54:04,Procyon lotor,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11190298,11/19/2018,10,6:46:45,Procyon lotor,2,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11230325,11/23/2018,10,4:35:25,Procyon lotor,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11250331,11/25/2018,11,6:37:58,Procyon lotor,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11300355,11/30/2018,10,1:15:54,Procyon lotor,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11300361,11/30/2018,10,3:43:16,Procyon lotor,1,11300365 good pic
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12010388,12/1/2018,18,6:30:10,Procyon lotor,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12050433,12/5/2018,10,1:34:37,Procyon lotor,1,12050436 great raccoon
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12060439,12/6/2018,11,1:33:58,Procyon lotor,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12060445,12/6/2018,11,2:08:04,Procyon lotor,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12060448,12/6/2018,11,2:09:11,Procyon lotor,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12090475,12/9/2018,17,5:47:45,Procyon lotor,2,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12090478,12/9/2018,17,6:17:02,Procyon lotor,2,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12260553,12/26/2018,10,7:45:30,Procyon lotor,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12280583,12/28/2018,16,6:33:44,Procyon lotor,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,1070637,1/7/2019,10,1:54:47,Procyon lotor,1,"chased the rabbi away!!, good pic of raccoon"
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1120061,1/12/2019,10,18:38:31,Procyon lotor,1,raccoon booty
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1120076,1/12/2019,6,23:38:28,Procyon lotor,2,1120091 great raccoon pic
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1120110,1/12/2019,7,23:39:25,Procyon lotor,2,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1130118,1/13/2019,10,19:14:16,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1140127,1/14/2019,10,3:43:39,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1140142,1/14/2019,10,19:53:38,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1140145,1/14/2019,10,19:59:23,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1150169,1/15/2019,8,17:45:55,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1190208,1/19/2019,7,4:02:13,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1190223,1/19/2019,11,18:16:40,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1190229,1/19/2019,10,18:36:16,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1200236,1/20/2019,8,4:44:20,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1230262,1/23/2019,8,22:27:09,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1230273,1/23/2019,7,23:35:30,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2030466,2/3/2019,8,23:15:20,Procyon lotor,2,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2030475,2/3/2019,8,23:41:06,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2110628,2/11/2019,5,20:27:51,Procyon lotor,3,great raccon pic with multiple individuals
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2120652,2/12/2019,5,0:08:25,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2120662,2/12/2019,10,20:29:46,Procyon lotor,1,"not sure this is a raccoon, could be a skunk...the fur is just popping into frame"
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2140679,2/14/2019,10,4:20:44,Procyon lotor,2,can see the second individual's eyes
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2190839,2/19/2019,5,22:29:24,Procyon lotor,2,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2220919,2/22/2019,5,4:28:11,Procyon lotor,2,"perhaps this is a pair of female friends hanging out every night, i often see 2"
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2280100,2/28/2019,10,21:59:26,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,3040151,3/4/2019,7,3:04:08,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,3040159,3/4/2019,7,3:40:39,Procyon lotor,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,3040163,3/4/2019,7,4:44:15,Procyon lotor,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,8310190,8/31/2018,17,11:15:17,rodent,1,Sciurus griseus
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9130553,9/13/2018,16,11:59:47,rodent,1,Sciurus griseus
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9130556,9/13/2018,16,12:00:48,rodent,1,Sciurus griseus
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1140136,1/14/2019,10,12:00:58,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1190212,1/19/2019,10,10:06:54,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1190219,1/19/2019,12,11:29:43,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1220254,1/22/2019,8,8:32:02,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1250299,1/25/2019,11,9:24:01,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1280358,1/28/2019,11,18:36:27,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1290373,1/29/2019,11,10:36:16,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1290376,1/29/2019,11,28:35:00,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2080553,2/8/2019,5,0:31:57,rodent,1,2080556 is a CHUNKY rodent hahah
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2080559,2/8/2019,6,8:43:51,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2140685,2/14/2019,11,5:41:54,rodent,1,the chunky boy!
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2140694,2/14/2019,10,18:52:54,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2150739,2/15/2019,6,3:15:21,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2150751,2/15/2019,6,3:16:27,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2160766,2/16/2019,5,0:04:48,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2170788,2/17/2019,7,8:23:27,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2170791,2/17/2019,8,8:56:37,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2190826,2/19/2019,5,7:39:40,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2190829,2/19/2019,10,13:51:15,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2200850,2/20/2019,5,0:09:13,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2210887,2/21/2019,10,13:43:09,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2230988,2/23/2019,11,14:56:33,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2240027,2/24/2019,10,10:39:00,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2250034,2/25/2019,7,8:09:01,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2250043,2/25/2019,11,15:20:22,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2260073,2/26/2019,12,13:26:36,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,3010109,3/1/2019,12,13:25:06,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,3040166,3/4/2019,10,9:42:59,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,3040172,3/4/2019,11,10:53:33,rodent,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,3040175,3/4/2019,11,11:18:35,rodent,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10280064,10/28/2018,12,19:34:15,Sylvilagus bachmani,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11200316,11/20/2018,10,1:49:40,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270814,7/27/2018,16,19:53:28,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270822,7/27/2018,16,19:54:11,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270832,7/27/2018,16,19:59:53,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270838,7/27/2018,16,20:00:22,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270850,7/27/2018,16,20:01:42,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270859,7/27/2018,16,20:02:28,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270862,7/27/2018,16,20:04:05,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270874,7/27/2018,16,20:05:27,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270892,7/27/2018,13,23:32:54,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270898,7/27/2018,13,23:34:06,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270901,7/27/2018,13,23:34:10,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270913,7/27/2018,13,23:36:32,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270916,7/27/2018,13,23:38:04,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270925,7/27/2018,13,23:41:35,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270928,7/27/2018,13,23:42:01,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270937,7/27/2018,13,23:45:37,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270946,7/27/2018,13,23:49:06,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270955,7/27/2018,13,23:50:58,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270964,7/27/2018,13,23:51:33,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270973,7/27/2018,13,23:57:47,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7270976,7/27/2018,13,23:59:40,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7280985,7/28/2018,13,0:00:43,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7280991,7/28/2018,13,0:01:53,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,104EK113,7280994,7/28/2018,13,0:05:30,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280004,7/28/2018,12,0:53:44,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280011,7/28/2018,12,1:24:27,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280022,7/28/2018,12,1:25:32,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280025,7/28/2018,12,1:28:07,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280049,7/28/2018,13,1:29:16,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280070,7/28/2018,13,1:31:05,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280091,7/28/2018,15,1:32:12,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280094,7/28/2018,12,1:43:50,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280118,7/28/2018,13,1:45:08,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280151,7/28/2018,13,1:59:47,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280166,7/28/2018,13,2:00:49,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280175,7/28/2018,13,2:03:54,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280193,7/28/2018,12,2:18:29,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280208,7/28/2018,13,2:19:55,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280226,7/28/2018,13,2:20:55,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280259,7/28/2018,12,2:46:57,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280274,7/28/2018,12,2:48:14,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280283,7/28/2018,12,2:49:14,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280295,7/28/2018,12,2:51:03,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280299,7/28/2018,11,3:52:13,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280307,7/28/2018,12,3:54:11,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280325,7/28/2018,12,3:55:46,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280337,7/28/2018,12,3:58:24,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280349,7/28/2018,13,6:47:24,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280359,7/28/2018,15,7:45:35,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7280749,7/28/2018,13,20:00:22,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7280757,7/28/2018,15,20:01:35,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7280769,7/28/2018,15,20:07:51,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7280781,7/28/2018,15,20:09:16,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7280796,7/28/2018,15,20:10:24,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7280808,7/28/2018,12,22:55:03,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7280820,7/28/2018,12,22:56:31,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7280823,7/28/2018,12,22:57:55,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7290838,7/29/2018,12,1:18:22,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7290841,7/29/2018,12,1:38:14,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7290857,7/29/2018,13,1:39:23,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7290863,7/29/2018,13,1:40:43,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7290871,7/29/2018,12,2:03:45,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,117EK113,7290613,7/29/2018,13,19:51:56,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,117EK113,7290625,7/29/2018,15,19:52:58,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,117EK113,7290634,7/29/2018,15,19:58:59,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,117EK113,7290640,7/29/2018,15,20:00:18,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,117EK113,7300646,7/30/2018,12,0:49:23,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,117EK113,7300664,7/30/2018,12,0:53:05,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,117EK113,7300667,7/30/2018,12,2:37:20,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,117EK113,7300676,7/30/2018,12,2:45:02,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,117EK113,7300697,7/30/2018,13,2:46:03,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,117EK113,7300701,7/30/2018,12,2:49:11,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7300025,7/30/2018,12,23:11:35,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7300028,7/30/2018,12,23:12:43,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7300046,7/30/2018,12,23:15:35,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7300055,7/30/2018,12,23:17:36,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7300064,7/30/2018,12,23:25:22,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7300079,7/30/2018,12,23:26:07,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7300085,7/30/2018,12,23:33:12,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7300100,7/30/2018,12,23:37:51,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310117,7/31/2018,12,0:23:55,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310142,7/31/2018,12,0:25:07,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310169,7/31/2018,13,0:26:13,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310182,7/31/2018,13,0:27:22,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310202,7/31/2018,13,0:29:11,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310217,7/31/2018,13,0:32:11,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310229,7/31/2018,13,0:34:15,Sylvilagus bachmani,1,7310238 is an adorable pic of a bunny looking at a moth lovingly
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310247,7/31/2018,13,0:36:26,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310262,7/31/2018,13,0:38:50,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310271,7/31/2018,13,0:40:07,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310289,7/31/2018,13,0:41:17,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310307,7/31/2018,13,0:42:17,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310316,7/31/2018,13,0:43:51,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310343,7/31/2018,15,0:44:59,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310358,7/31/2018,13,0:50:15,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310364,7/31/2018,12,1:28:45,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310385,7/31/2018,12,1:30:00,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310396,7/31/2018,12,1:36:15,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310398,7/31/2018,12,1:41:34,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310406,7/31/2018,12,1:46:11,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310415,7/31/2018,12,1:50:18,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310421,7/31/2018,12,1:51:20,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310430,7/31/2018,12,1:52:27,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310442,7/31/2018,12,1:53:29,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310457,7/31/2018,12,1:54:29,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310469,7/31/2018,12,1:55:32,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310481,7/31/2018,12,1:58:17,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310484,7/31/2018,12,2:01:49,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310490,7/31/2018,12,2:03:32,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310502,7/31/2018,12,2:04:49,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310505,7/31/2018,12,2:06:09,Sylvilagus bachmani,1,
+UCSB,summer,2018,2.2,"34 24' 36.3"" N","119 51' 05.1"" W",7/30/2018,7/31/2018,urban,100EK113,7310511,7/31/2018,11,4:23:41,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,8290061,8/29/2018,21,18:59:39,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,8290066,8/29/2018,17,20:13:41,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,8300146,8/30/2018,15,2:12:59,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,8300166,8/30/2018,22,8:45:07,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,8300172,8/30/2018,20,20:40:22,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,8310196,8/31/2018,16,21:17:47,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,8310199,8/31/2018,16,21:55:06,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9010278,9/1/2018,17,18:41:59,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9020280,9/2/2018,13,3:30:38,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9030343,9/3/2018,15,2:01:13,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9030357,9/3/2018,15,8:15:44,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9030361,9/3/2018,13,23:06:17,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9040364,9/4/2018,13,3:38:41,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9050370,9/5/2018,12,0:41:03,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9050377,9/5/2018,13,8:16:33,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9060401,9/6/2018,13,1:51:07,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9070403,9/7/2018,13,1:59:48,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9070410,9/7/2018,13,3:07:19,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9070416,9/7/2018,15,18:27:10,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9080424,9/8/2018,15,21:13:14,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9090422,9/9/2018,15,21:05:10,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9100448,9/10/2018,13,5:16:48,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9110475,9/11/2018,12,1:55:08,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9110484,9/11/2018,12,6:18:32,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9140574,9/14/2018,15,20:38:59,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9150604,9/15/2018,12,6:02:03,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9150622,9/15/2018,20,17:02:03,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9150625,9/15/2018,20,18:15:26,Sylvilagus bachmani,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9150628,9/15/2018,15,21:19:26,Sylvilagus bachmani,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12230535,12/23/2018,10,23:06:45,Sylvilagus bachmani,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12240541,12/24/2018,10,1:35:19,Sylvilagus bachmani,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12300601,12/30/2018,15,7:08:23,Sylvilagus bachmani,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,1050609,1/5/2019,16,19:11:04,Sylvilagus bachmani,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,1070634,1/7/2019,10,1:54:38,Sylvilagus bachmani,,* not sure if it is actually a rabbit?!?!
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1100028,1/10/2019,10,21:47:01,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1120034,1/12/2019,8,3:07:19,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1120037,1/12/2019,7,6:44:45,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1120067,1/12/2019,7,21:19:47,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1140139,1/14/2019,10,19:46:04,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1140158,1/14/2019,10,21:30:20,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1150172,1/15/2019,8,19:27:03,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1180201,1/18/2019,8,23:48:16,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1210247,1/21/2019,10,0:15:26,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1240277,1/24/2019,6,3:47:38,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1280355,1/28/2019,7,5:02:50,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2020427,2/2/2019,10,18:14:18,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2030454,2/3/2019,10,5:55:44,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2040479,2/4/2019,10,16:13:48,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2050520,2/5/2019,3,23:59:09,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2070547,2/7/2019,5,22:11:04,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2110646,2/11/2019,5,23:14:09,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2140699,2/14/2019,8,20:31:24,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2160775,2/16/2019,6,23:49:43,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2210875,2/21/2019,5,1:59:52,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2210877,2/21/2019,5,2:04:31,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2210880,2/21/2019,5,3:25:15,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2210883,2/21/2019,5,3:26:29,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2220916,2/22/2019,5,0:24:19,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2230964,2/23/2019,5,3:32:50,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2230973,2/23/2019,5,5:29:51,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2230979,2/23/2019,5,5:30:33,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2230001,2/23/2019,10,18:22:40,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2240016,2/24/2019,5,5:37:53,Sylvilagus bachmani,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2250055,2/25/2019,8,21:10:44,Sylvilagus bachmani,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10260016,10/26/2018,13,19:42:40,Vulpes vulpes,1,GREAT PIC OF FOX!
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10260019,10/26/2018,13,19:45:01,Vulpes vulpes,1,GREAT PIC OF FOX!
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10260025,10/26/2018,13,19:46:33,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10260028,10/26/2018,13,19:48:23,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10260037,10/26/2018,13,19:55:34,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10260040,10/26/2018,13,21:06:59,Vulpes vulpes,1,GREAT PIC OF FOX! 10260044
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10270052,10/27/2018,12,22:24:27,Vulpes vulpes,1,GREAT PIC OF FOX!
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10280058,10/28/2018,11,2:01:30,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10280067,10/28/2018,12,21:38:13,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10310097,10/31/2018,11,22:18:19,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,10310100,10/31/2018,11,23:11:41,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11010127,11/1/2018,15,21:00:00,Vulpes vulpes,1,AMAZING PICTURE OF FOX!!
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11010130,11/1/2018,13,21:55:01,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11020139,11/2/2018,11,5:55:58,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11020142,11/2/2018,15,19:31:31,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11130241,11/13/2018,10,1:10:25,Vulpes vulpes,1,good fox pic
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11130250,11/13/2018,11,21:46:36,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11180292,11/18/2018,10,23:20:00,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11190295,11/19/2018,10,4:23:52,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11240328,11/24/2018,11,2:22:48,Vulpes vulpes,1,good fox pic
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11250337,11/25/2018,11,23:16:19,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11260340,11/26/2018,10,23:29:46,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11260343,11/26/2018,10,23:35:20,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11280352,11/28/2018,12,19:43:17,Vulpes vulpes,1,
+UCSB,fall,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,11300373,11/30/2018,10,3:57:51,Vulpes vulpes,1,AMAZING PICTURE OF FOX!!
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,105EK113,7280343,7/28/2018,11,5:31:26,Vulpes vulpes,1,
+UCSB,summer,2018,2.1,"34 24' 36.3"" N","119 51' 05.1"" W",7/27/2018,7/30/2018,urban,110EK113,7290875,7/29/2018,13,5:26:18,Vulpes vulpes,1,
+UCSB,summer,2018,20.1,"34 24' 23.4"" N","119 50' 45.1"" W",8/20/2018,8/29/2018,urban,100EK113,8250177,8/25/2018,15,20:40:47,Vulpes vulpes,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9010265,9/1/2018,16,1:34:16,Vulpes vulpes,1,GREAT PIC OF FOX!
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9100466,9/10/2018,12,22:21:43,Vulpes vulpes,1,GREAT PIC OF FOX!
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9130562,9/13/2018,15,22:12:29,Vulpes vulpes,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9140568,9/14/2018,17,19:11:33,Vulpes vulpes,1,
+UCSB,summer,2018,20.2,"34 24' 23.3"" N","119 50' 45.1"" W",8/29/2018,9/17/2018,urban,100EK113,9140571,9/14/2018,16,19:21:48,Vulpes vulpes,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12240547,12/24/2018,18,3:49:23,Vulpes vulpes,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,12280579,12/28/2018,16,6:30:43,Vulpes vulpes,1,
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,1040604,1/4/2019,15,6:36:45,Vulpes vulpes,1,"*temp might be cut off? 15 instead of 5? this cut off temp appears frequently, so I correct for it as a i see it"
+UCSB,winter,2018,20.3,"34 24' 23.3"" N","119 50' 45.1"" W",10/26/2018,1/9/2019,urban,100EK113,1080643,1/8/2019,18,3:49:58,Vulpes vulpes,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1120031,1/12/2019,8,2:41:12,Vulpes vulpes,1,not sure if this is a fox
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1260319,1/26/2019,6,3:19:19,Vulpes vulpes,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,1290379,1/29/2019,10,19:11:01,Vulpes vulpes,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2020451,2/2/2019,10,22:04:47,Vulpes vulpes,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,100EK113,2040481,2/4/2019,7,20:07:10,Vulpes vulpes,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2240019,2/24/2019,5,6:27:12,Vulpes vulpes,1,
+UCSB,winter,2019,20.4,"34 24' 23.3"" N","119 50' 45.1"" W",1/9/2019,3/4/2019,urban,101EK114,2280082,2/28/2019,10,3:19:08,Vulpes vulpes,1,

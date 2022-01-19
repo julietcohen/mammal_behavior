@@ -1,0 +1,120 @@
+---
+title: "data_exploration"
+author: "Juliet"
+date: "1/19/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(dplyr)
+library(here)
+library(janitor)
+```
+
+```{r}
+data <- read.csv(here("data/thesis_analysis_0418_sheet1.csv")) %>% 
+  clean_names() %>% 
+  rename(site = x)
+
+class(data$species)
+#data$species <- as.factor(data$species)
+#unique(data$species)
+
+hist_data <- data %>%
+  mutate(species_num = case_when(
+    species == "Didelphis virginiana" ~ 1,
+    species == "rodent" ~ 2,
+    species == "Spilogale gracilis" ~ 3,
+    species == "Lynx rufus" ~ 4,
+    species == "Sylvilagus bachmani" ~ 5,
+    species == "Urocyon cinereoargenteus" ~ 6,
+    species == "Mephitis mephitis" ~ 7,
+    species == "Odocoileus hemionus" ~ 8,
+    species == "Ursus americanus" ~ 9,
+    species == "Procyon lotor" ~ 10,
+    species == "Puma concolor" ~ 11,
+    species == "Vulpes vulpes" ~ 12
+  ))
+
+hist_data_common_name <- data %>%
+  mutate(common_name = case_when(
+    species == "Didelphis virginiana" ~ "opossum",
+    species == "rodent" ~ "rodent",
+    species == "Spilogale gracilis" ~ "spotted skunk",
+    species == "Lynx rufus" ~ "bobcat",
+    species == "Sylvilagus bachmani" ~ "brush rabbit",
+    species == "Urocyon cinereoargenteus" ~ "gray fox",
+    species == "Mephitis mephitis" ~ "striped skunk",
+    species == "mule deer" ~ "",
+    species == "Ursus americanus" ~ "black bear",
+    species == "Procyon lotor" ~ "raccoon",
+    species == "Puma concolor" ~ "mountain lion",
+    species == "Vulpes vulpes" ~ "red fox"
+  ))
+
+#unique(hist_data$species_num)
+# all are present
+
+class(hist_data$site)
+hist_data$site <- as.factor(hist_data$site)
+
+# consider NA values, remove rows
+map(hist_data_common_name, ~sum(is.na(.)))
+hist_data_common_name <- na.omit(hist_data_common_name)
+
+# find start and end dates
+class(date)
+#start_date <-
+
+# group by site and species, count occurence of species
+site_grouping_species_num <- aggregate(hist_data$species_num, by=list(hist_data$site, hist_data$species), FUN = length)
+
+site_grouping_common_name <- aggregate(hist_data_common_name$common_name, by=list(hist_data_common_name$site, hist_data_common_name$species), FUN = length)
+```
+
+## Visualization
+
+```{r histograms}
+# histogram with species number
+# hist_species_num <- ggplot(data = hist_data, aes(x = species_num)) +
+#   geom_bar(aes(color = site)) +
+#   xlab("Species") +
+#   theme(legend)
+# 
+# hist
+
+# histogram with species common name
+hist_common_name <- ggplot(hist_data_common_name, aes(x = common_name)) +
+  geom_bar(aes(fill = site)) +
+  ggtitle("Species Occurence Across Santa Barbara, Summer 2018 - Winter 2019") +
+  xlab("Species") + 
+   ylab("Count") +
+  scale_y_continuous(breaks = seq(00, 250, by = 25)) +
+   theme(panel.background = element_blank(),
+         axis.title.x = element_text(color = "black", face = "bold", size = 15),
+         axis.text.x = element_text(color = "black", size = 10),
+         axis.title.y = element_text(color = "black", face = "bold", size = 15),
+         axis.text.y = element_text(color = "black", size = 13),
+         plot.title = element_text(color="black", size = 12, face = "bold"),
+         panel.border = element_rect(colour = "black", fill = NA, size = 2)) +
+  coord_flip()
+
+hist_common_name
+
+scale_x_continuous(breaks = c(2009:2015)) +
+  scale_y_continuous(breaks = seq(60, 78, by = 2)) +
+  scale_y_continuous(breaks = floor(english_data$mean)) 
+```
+
+
+
+
+
+
+
+
