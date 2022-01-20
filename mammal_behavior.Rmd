@@ -100,7 +100,7 @@ hist_common_name <- ggplot(hist_data_common_name, aes(x = common_name)) +
          axis.text.x = element_text(color = "black", size = 10),
          axis.title.y = element_text(color = "black", face = "bold", size = 15),
          axis.text.y = element_text(color = "black", size = 12),
-         plot.title = element_text(color="black", size = 12, face = "bold"),
+         plot.title = element_text(color="black", size = 11, face = "bold"),
          panel.border = element_rect(colour = "black", fill = NA, size = 2)) +
   scale_fill_brewer(palette = c("Set2")) +
   coord_flip()
